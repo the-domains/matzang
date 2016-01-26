@@ -1,0 +1,14 @@
+layout_spectrum: 0.3595918
+typography_spectrum: 0.9533124
+color:
+  saturation: 0.590377
+  lightness: 0.06894881
+  brandStrength: 0.4387785
+  rhythmicContrast: 0.6268806
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: matzang
