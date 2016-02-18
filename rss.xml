@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[matzang]]></title>
         <description><![CDATA[matzang]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matzang/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 16:23:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 10:41:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matzang/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12f2fe84-15c5-4f84-9b7e-f30b9fb4aa65.JPG">]]></description>
-            <link>undefinedb3344a57-afcf-427d-8885-c40e5b416e43/index.html</link>
+            <link>https://thegrid.ai/matzang/b3344a57-afcf-427d-8885-c40e5b416e43/index.html</link>
             <guid isPermaLink="false">b3344a57-afcf-427d-8885-c40e5b416e43</guid>
             <pubDate>Thu, 04 Feb 2016 16:23:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Volume Mixer for Mac lives in your menu bar. With simple features like muting apps by double clicking and detaching an app from the master volume by right clicking, Volume Mixer is easy to learn and simple to use. Free 15 day trial Download App Downloaded 3281 times Buy Activation Key Purchase Now Already purchased via the Mac App Store? Contact Us Directly | Get Product Support We need your Help! Volume Mixer is a work of passion, it started 2 years ago and after many iterations became the app we have today. However, we are not done yet. This is Version 1.1, there is much to improve and even more to add. Join us as we build Volume Mixer into the app we have all been searching for since we got our first Mac. As a small team we can use as much support as possible. Please help kick-start Volume Mixer allowing us to continue working on it. Recommend, Share and Tweet it. Together we can make it even better.</p>]]></description>
+            <link>https://thegrid.ai/matzang/volume-mixer-for-mac-lives-in-your-menu-bar-with-simple-fea/index.html</link>
+            <guid isPermaLink="false">a25f6eab-12f9-4d3e-b8e6-8499d351421d</guid>
+            <pubDate>Thu, 18 Feb 2016 10:41:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
